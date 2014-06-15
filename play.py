@@ -1,7 +1,7 @@
 nm= ['bob','jane','tim']
 
-col= ['red','blue','green']
-for pair in zip(nm,col):
+colour= ['red','blue','green']
+for pair in zip(nm,colour):
     print pair
 while in range(150):
     print input('data? ')
